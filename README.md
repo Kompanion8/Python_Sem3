@@ -1,4 +1,5 @@
 # praktikumLab
+Репозиторий всех работ за 3 семестр
 
 ## [Web-сервер: Web-server](https://github.com/Kompanion8/Python_Sem3/tree/main/web)
 ## [FTP-сервер: FTP-сервер](https://github.com/Kompanion8/Python_Sem3/tree/main/ftp)
