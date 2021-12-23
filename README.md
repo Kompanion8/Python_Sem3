@@ -5,3 +5,4 @@
 ## [FTP-сервер: ftp](https://github.com/Kompanion8/Python_Sem3/tree/main/ftp)
 ## [Ассиметричное шифрование: encryption](https://github.com/Kompanion8/Python_Sem3/tree/main/encryption)
 ## [Flask-приложение: flask_app](https://github.com/Kompanion8/Python_Sem3/tree/main/flask_app)
+## [Работы за сен-окт: sep-oct](https://github.com/Kompanion8/Python_Sem3/tree/main/sep-oct)
