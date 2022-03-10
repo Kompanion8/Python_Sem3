@@ -1,4 +1,4 @@
 # Python_Sem3
-Сервер асинхронного шифрования
+dot_motion
 
-## [Отчёт](https://github.com/Kompanion8/Python_Sem3/blob/main/encryption/Encryption_readme.pdf)
+## [Отчёт](https://github.com/Kompanion8/Python_Sem3/blob/main/dot_motion/dot_motion_readme.pdf)
